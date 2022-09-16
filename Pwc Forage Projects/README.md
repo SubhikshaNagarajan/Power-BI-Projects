@@ -12,6 +12,3 @@ Barchart to represent Resolved vs Unresolved count
 Agent Performance is calculated with Avg. Talk Duration
 Line chart to represent resolved issues answered on topics
 Matrix to project top 3 agents who received highest number of ratings,Also the breakdown of satisfaction ratings received by top 3 agents
-
-
-
